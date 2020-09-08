@@ -57,7 +57,7 @@ const template = ({ contents }) => `
     font-weight="bold"
     letter-spacing="0em"
   >
-    <tspan x="${width/2 - 3.29 * fontSize}" y="${height/2 + fontSize * 0.231}" fill="${COLOR_FG}">Akshay <tspan fill="${COLOR_ACCENT}">Nair</tspan></tspan>
+    <tspan x="${width/2 - 3.29 * fontSize}" y="${height/2 + fontSize * 0.231}" fill="${COLOR_FG}">Pratik <tspan fill="${COLOR_ACCENT}">Pathak</tspan></tspan>
   </text>
   <style>
     @keyframes animation {
